@@ -1,0 +1,25 @@
+Timesheet: dev
+    Day                Start      End        Duration   Notes
+    Sun Feb 19, 2017   16:39:14 - 18:01:12   1:21:58    creating a cordova hello world
+                                             1:21:58
+    Mon Feb 20, 2017   11:47:16 - 12:34:21   0:47:05    cordova template
+                                             0:47:05
+    ------------------------------------------------------------------------------------------------------
+    Total                                    2:09:03
+
+Timesheet: research
+    Day                Start      End        Duration   Notes
+    Sat Feb 18, 2017   23:14:37 - 23:17:50   0:03:13    testing timetrap
+                       23:40:34 - 01:39:29   1:58:55    reading about different colored coins protocols
+                                             2:02:08
+    Sun Feb 19, 2017   10:21:45 - 11:18:19   0:56:34    read about different web view wrappers and app
+                                                        shell / app game shell options
+                       11:28:05 - 12:32:54   1:04:49    read about AGPL games on steam, play store and iOS
+                                             2:01:23
+    Mon Feb 20, 2017   15:18:38 - 17:51:18   2:32:40    read about play store and create a developer
+                                                        profile able to publish apk
+                                             2:32:40
+    ------------------------------------------------------------------------------------------------------
+    Total                                    6:36:11
+----------------------------------------------------------------------------------------------------------
+Grand Total                                  8:45:14
