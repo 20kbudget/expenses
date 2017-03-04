@@ -28,8 +28,15 @@ Timesheet: dev
     Fri Mar 03, 2017   18:22:42 - 19:47:27   1:24:45    setting up dev tools and repos on laptop machine
                        19:47:58 - 21:26:32   1:38:34    add road to race demo
                                              3:03:19
-    -------------------------------------------------------------------------
-    Total                                   21:57:31
+    Sat Mar 04, 2017   14:22:31 - 15:37:53   1:15:22    use renderTexture to create the straight road tile
+                                                        texture dinamically
+                       15:39:29 - 16:21:48   0:42:19    replace bankai with budo to dev webserver because
+                                                        budo has built in live reload
+                       16:22:11 - 17:13:03   0:50:52    road animation at different speeds
+                       17:25:19 - 19:59:09   2:33:50    road animation at different speeds
+                                             5:22:23
+    ----------------------------------------------------------------------------------
+    Total                                   27:19:54
 
 Timesheet: marketing
     Day                Start      End        Duration   Notes
@@ -43,8 +50,10 @@ Timesheet: marketing
     Wed Mar 01, 2017   15:14:26 - 17:38:25   2:23:59    blogpost hello world pt 2
                        18:15:18 - 18:40:07   0:24:49    blogpost hello world pt 2
                                              2:48:48
-    -------------------------------------------------------------------------
-    Total                                    7:13:55
+    Sat Mar 04, 2017   20:07:01 - 20:56:41   0:49:40    blog about my racing game demo
+                                             0:49:40
+    ----------------------------------------------------------------------------------
+    Total                                    8:03:35
 
 Timesheet: research
     Day                Start      End        Duration   Notes
@@ -73,7 +82,7 @@ Timesheet: research
                                              1:11:29
     Thu Mar 02, 2017   13:15:36 - 14:10:41   0:55:05    brainstorming a demo game
                                              0:55:05
-    -------------------------------------------------------------------------
+    ----------------------------------------------------------------------------------
     Total                                   12:08:22
------------------------------------------------------------------------------
-Grand Total                                 41:19:48
+--------------------------------------------------------------------------------------
+Grand Total                                 47:31:51

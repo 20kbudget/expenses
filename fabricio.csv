@@ -32,3 +32,8 @@ start,end,note,sheet
 "2017-03-02 13:15:36","2017-03-02 14:10:41","brainstorming a demo game","research"
 "2017-03-03 18:22:42","2017-03-03 19:47:27","setting up dev tools and repos on laptop machine","dev"
 "2017-03-03 19:47:58","2017-03-03 21:26:32","add road to race demo","dev"
+"2017-03-04 14:22:31","2017-03-04 15:37:53","use renderTexture to create the straight road tile texture dinamically","dev"
+"2017-03-04 15:39:29","2017-03-04 16:21:48","replace bankai with budo to dev webserver because budo has built in live reload","dev"
+"2017-03-04 16:22:11","2017-03-04 17:13:03","road animation at different speeds","dev"
+"2017-03-04 17:25:19","2017-03-04 19:59:09","road animation at different speeds","dev"
+"2017-03-04 20:07:01","2017-03-04 20:56:41","blog about my racing game demo","marketing"
