@@ -37,3 +37,6 @@ start,end,note,sheet
 "2017-03-04 16:22:11","2017-03-04 17:13:03","road animation at different speeds","dev"
 "2017-03-04 17:25:19","2017-03-04 19:59:09","road animation at different speeds","dev"
 "2017-03-04 20:07:01","2017-03-04 20:56:41","blog about my racing game demo","marketing"
+"2017-03-05 14:10:38","2017-03-05 15:48:08","measure / improve pixi perrformance / fps","research"
+"2017-03-05 15:48:38","2017-03-05 20:04:33","performance comparison between different approaches to road animation","dev"
+"2017-03-05 23:48:52","2017-03-06 00:33:08","blog status update of the day","marketing"
