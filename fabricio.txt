@@ -68,8 +68,15 @@ Timesheet: dev
                        15:00:00 - 18:03:51   3:03:51    more api draft
                        22:26:53 - 00:36:54   2:10:01    more api draft
                                              8:20:00
-    ------------------------------------------------------------------
-    Total                                   69:43:00
+    Mon Mar 13, 2017   13:40:32 - 14:30:24   0:49:52    pixi renderer wrap
+                       17:03:40 - 18:35:13   1:31:33    pixi renderer wrap
+                       20:28:16 - 20:32:58   0:04:42    pixi renderer wrap
+                       22:03:27 - 01:30:21   3:26:54    pixi renderer wrap
+                                             5:53:01
+    Tue Mar 14, 2017   15:14:51 - 15:46:08   0:31:17    play with some possible api changes
+                                             0:31:17
+    --------------------------------------------------------------------------
+    Total                                   76:07:18
 
 Timesheet: marketing
     Day                Start      End        Duration   Notes
@@ -87,7 +94,7 @@ Timesheet: marketing
                                              0:49:40
     Sun Mar 05, 2017   23:48:52 - 00:33:08   0:44:16    blog status update of the day
                                              0:44:16
-    ------------------------------------------------------------------
+    --------------------------------------------------------------------------
     Total                                    8:47:51
 
 Timesheet: research
@@ -124,7 +131,17 @@ Timesheet: research
     Sat Mar 11, 2017   13:40:00 - 18:22:02   4:42:02    watch lectures about functional programming in
                                                         games
                                              4:42:02
-    ------------------------------------------------------------------
-    Total                                   24:15:06
-----------------------------------------------------------------------
-Grand Total                                102:45:57
+    Mon Mar 13, 2017   14:30:53 - 17:03:10   2:32:17    watch react conference
+                       18:35:29 - 19:34:57   0:59:28    watch react conference
+                       20:04:44 - 20:27:38   0:22:54    watch react conference
+                       20:33:09 - 22:03:02   1:29:53    watch react conference
+                       22:03:09 - 22:03:18   0:00:09    watch react conference
+                                             5:24:41
+    Tue Mar 14, 2017   14:24:38 - 15:14:21   0:49:43    watch react conference
+                       15:46:26 - 17:22:13   1:35:47    watch react conference
+                       18:28:32 - 19:18:24   0:49:52    watch react conference
+                                             3:15:22
+    --------------------------------------------------------------------------
+    Total                                   32:55:09
+------------------------------------------------------------------------------
+Grand Total                                117:50:18
