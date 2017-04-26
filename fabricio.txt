@@ -116,8 +116,20 @@ Timesheet: dev
                        12:56:43 - 13:09:06   0:12:23    line move function
                        15:54:15 - 18:04:23   2:10:08    line move function
                                              4:11:14
-    ----------------------------------------------------------------------
-    Total                                  130:16:30
+    Sun Apr 23, 2017   10:00:00 - 12:08:45   2:08:45    test animation timings
+                       17:00:00 - 18:17:26   1:17:26    ludum dare signup and setup
+                       18:18:03 - 20:03:24   1:45:21    improve track string parser to allow branching
+                                             5:11:32
+    Mon Apr 24, 2017   13:32:00 - 19:03:30   5:31:30    improve track string parser to allow branching
+                       22:08:42 - 01:29:02   3:20:20    improve track string parser to allow branching
+                                             8:51:50
+    Tue Apr 25, 2017   13:48:24 - 15:34:36   1:46:12    fixing and documenting my workarounds to make my
+                                                        macbookpro 2009 chrome happy with webgl
+                       22:02:34 - 23:46:28   1:43:54    function to get a tile given a tiles array and a
+                                                        coordinate
+                                             3:30:06
+    ------------------------------------------------------------------------------------------------------
+    Total                                  147:49:58
 
 Timesheet: marketing
     Day                Start      End        Duration   Notes
@@ -139,7 +151,7 @@ Timesheet: marketing
                                              0:30:48
     Tue Apr 18, 2017   07:30:00 - 08:02:42   0:32:42    blog update
                                              0:32:42
-    ----------------------------------------------------------------------
+    ------------------------------------------------------------------------------------------------------
     Total                                    9:51:21
 
 Timesheet: research
@@ -216,7 +228,7 @@ Timesheet: research
                                              1:54:46
     Tue Apr 04, 2017   12:54:50 - 16:12:48   3:17:58    read some gpgpu examples
                                              3:17:58
-    ----------------------------------------------------------------------
+    ------------------------------------------------------------------------------------------------------
     Total                                   59:25:20
---------------------------------------------------------------------------
-Grand Total                                199:33:11
+----------------------------------------------------------------------------------------------------------
+Grand Total                                217:06:39
